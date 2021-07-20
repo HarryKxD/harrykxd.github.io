@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: harrykxd.cf
-Token: 208b5a571690f330fc6edaade6b9588fad92b3dd5286cb2b64ded3ca96aaf811
